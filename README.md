@@ -16,5 +16,7 @@ First, clone the project repository from GitHub:
 git clone https://github.com/Abdullah11l11/amaizo-chat-ai
 cd project-name
 npm install
+npm run dev
 # or
 yarn install
+yarn dev
